@@ -1,2 +1,2 @@
 # Main Screen
-![Screenshot_1](https://user-images.githubusercontent.com/106491131/175114777-104acdf7-b211-4ffe-b7bb-8ae79f843fbc.png)
+![image](https://user-images.githubusercontent.com/106491131/175990333-22f8e8d3-d867-4f10-bb12-688914e8ed48.png)
